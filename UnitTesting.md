@@ -1,5 +1,5 @@
 # Unit Testing
-Test task addition
-Test task deletion
-Test task completion
-Test task reordering
+Test task addition.
+Test task deletion.
+Test task completion.
+Test task reordering.
